@@ -32,4 +32,5 @@ Conclusion:
 This EDA provides valuable insights into the film industry that can assist filmmakers, marketers, and researchers in understanding audience preferences and trends. Feel free to explore the notebook and modify it for your own analysis!
 
 Contributions:
+
 Contributions are welcome! If you have suggestions for improvements or additional analyses, please feel free to submit a pull request.
